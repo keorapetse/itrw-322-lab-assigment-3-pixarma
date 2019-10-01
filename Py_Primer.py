@@ -1,5 +1,7 @@
 import math
 
 
-X = 5
-Y = 1
+x = 5
+y = 1
+
+my_Sum = x + y 
